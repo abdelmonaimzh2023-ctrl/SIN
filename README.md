@@ -44,3 +44,7 @@ Auto-Repair	Automatically checks and installs missing libraries on startup.
       Command of instalation: 
       cd SIN 
       python3 Silent.py 
+
+ COntacte US: 
+ Telegram:@monaimFp 
+ 
