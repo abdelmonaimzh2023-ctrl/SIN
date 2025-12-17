@@ -41,3 +41,6 @@ Auto-Repair	Automatically checks and installs missing libraries on startup.
     Execute: Click EXECUTE or choose a specific module from the sidebar.
 
     Analyze: Read the live logs in the green terminal for instant intelligence.
+      Command of instalation: 
+      cd SIN 
+      python3 Silent.py 
