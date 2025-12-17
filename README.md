@@ -42,6 +42,7 @@ Auto-Repair	Automatically checks and installs missing libraries on startup.
 
     Analyze: Read the live logs in the green terminal for instant intelligence.
       Command of instalation: 
+      git clone https://github.com/abdelmonaimzh2023-ctrl/SIN.git
       cd SIN 
       python3 Silent.py 
 
